@@ -36,6 +36,7 @@ public class Squares_lib implements Squares_if {
 		return theta;
 	}
 	
+	
 	}
 	
 
